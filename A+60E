@@ -134,7 +134,7 @@ vlan 69
 vlan 70
     name SELLME
 vlan 71
-    name HR
+    name IT
 vlan 100
    name VOICEVLAN
 Int Fa 0/2
